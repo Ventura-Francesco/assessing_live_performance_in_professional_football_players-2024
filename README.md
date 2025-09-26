@@ -11,8 +11,10 @@ The main focus is to analyse the extreme values of absolute acceleration, which 
 
 This methodology offers a tool to facilitate the evaluation of physical performance, which can lead to more informed decision-making processes. Some concrete live decisions it could help with are player substitutions or tactical changes, while it could assist long-term with adjustments of the player’s role in the team or their skill development plan.
 
-## PDF
-📄 [Download the dissertation](./assessing_live_performance_in_professional_football_players-2024.pdf)
+## Highlights
+- Focus on extreme physical performance metrics in football.  
+- Novel methodology combining Peak Over Threshold (POT) analysis with Kolmogorov-Smirnov two-sample tests.  
+- Potential applications in live decision-making (player substitutions, tactical adjustments) and long-term player development.  
 
 ## How to Cite
 BibTeX:
@@ -24,12 +26,7 @@ BibTeX:
   year = {2024},
   note = {MSc Thesis, supervised by Dr. Adam Sykulski and Dr. Tim Blackmore}
 }
-
-## Highlights
-- Focus on extreme physical performance metrics in football.  
-- Novel methodology combining Peak Over Threshold (POT) analysis with Kolmogorov-Smirnov two-sample tests.  
-- Potential applications in live decision-making (player substitutions, tactical adjustments) and long-term player development.  
-
+```
 ## License
 Copyright © 2024 Francesco Ventura.  
 All rights reserved.  
@@ -40,14 +37,13 @@ Imperial College London retains all rights over this work.
 This PDF may be viewed and cited for personal, educational, and non-commercial purposes only.  
 Any commercial use or reproduction is strictly prohibited without explicit permission from Imperial College London.
 
+## PDF
+📄 [Download the dissertation](./assessing_live_performance_in_professional_football_players-2024.pdf)
+
 ## Contact
 **Francesco Ventura**  
 - Email: ventura.f.2023@gmail.com  
 - LinkedIn: [www.linkedin.com/in/francesco-ventura-profile](https://www.linkedin.com/in/francesco-ventura-profile)
-
-
-
-
 
 
 
