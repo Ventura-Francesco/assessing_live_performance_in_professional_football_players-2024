@@ -24,3 +24,35 @@ BibTeX:
   year = {2024},
   note = {MSc Thesis, supervised by Dr. Adam Sykulski and Dr. Tim Blackmore}
 }
+
+## Highlights
+- Focus on extreme physical performance metrics in football.  
+- Novel methodology combining Peak Over Threshold (POT) analysis with Kolmogorov-Smirnov two-sample tests.  
+- Potential applications in live decision-making (player substitutions, tactical adjustments) and long-term player development.  
+
+## License
+Copyright © 2024 Francesco Ventura.  
+All rights reserved.  
+
+This dissertation was submitted as part of the MSc Statistics program at Imperial College London.  
+Imperial College London retains all rights over this work.  
+
+This PDF may be viewed and cited for personal, educational, and non-commercial purposes only.  
+Any commercial use or reproduction is strictly prohibited without explicit permission from Imperial College London.
+
+## Contact
+**Francesco Ventura**  
+- Email: ventura.f.2023@gmail.com  
+- LinkedIn: [www.linkedin.com/in/francesco-ventura-profile](https://www.linkedin.com/in/francesco-ventura-profile)
+
+
+
+
+
+
+
+
+
+
+
+
