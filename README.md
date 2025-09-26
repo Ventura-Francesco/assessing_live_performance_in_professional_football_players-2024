@@ -40,7 +40,7 @@ Any commercial use or reproduction is strictly prohibited without explicit permi
 ## PDF
 📄 [Download the dissertation](./assessing_live_performance_in_professional_football_players-2024.pdf)
 
-## Contact
+## Contacts
 **Francesco Ventura**  
 - Email: ventura.f.2023@gmail.com  
 - LinkedIn: [www.linkedin.com/in/francesco-ventura-profile](https://www.linkedin.com/in/francesco-ventura-profile)
